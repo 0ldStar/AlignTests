@@ -1,6 +1,5 @@
 #include <iostream>
 #include <vector>
-
 #include "task.h"
 
 using namespace std;

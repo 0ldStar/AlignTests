@@ -2,7 +2,6 @@
 #include <iostream>
 #include <vector>
 #include <cmath>
-#include <random>
 
 #define X0 0
 #define Y0 0
